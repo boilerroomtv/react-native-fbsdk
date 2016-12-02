@@ -18,9 +18,9 @@
 
 #import "RCTFBSDKLikeControlManager.h"
 
-#import <RCTBridge.h>
-#import <RCTConvert.h>
-#import <RCTEventDispatcher.h>
+#import <React/RCTBridge.h>
+#import <React/RCTConvert.h>
+#import <React/RCTEventDispatcher.h>
 #import <UIView+React.h>
 
 #import <Foundation/Foundation.h>
